@@ -19,6 +19,7 @@ I build reliable automated testing frameworks, API validation suites, and CI/CD 
 * [PostgreSQL Database Integration](https://github.com) — Automated relational database validation running in an isolated Docker container.
 * [Pytest Parallel Infrastructure](https://github.com) — Scalable multi-threaded test execution engine (pytest-xdist) with automated HTML reporting.
 * [Real Estate API Test Automation](https://github.com) — Automated REST API validation suite using Pytest & Pydantic (geo-boundaries, pricing rules, parameterized search, and negative contract tests).
+* * [Real Estate UI Test Automation (Playwright + POM)](https://github.com) — End-to-end UI test suite for a Real Estate search and booking portal using Page Object Model and GitHub Actions CI/CD.
 ---
 
 ### 🤝 How We Can Work Together
